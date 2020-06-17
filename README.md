@@ -10,12 +10,22 @@ Análise intersetorial simples de uma Matriz Insumo-Produto de Leontieff [retira
 
 - **Demanda Final (DF):** Demanda dos consumidores finais (população, governo e mercado externo), exlui-se o que é consumido para confecção de novos produtos (a demanda intermediária).
 
-- **Consumo Intermediário:** É o consumo total de insumos de cada setor. Em outras palavras, equivale à soma dos valores de uma determinada coluna.
+- **Consumo Intermediário: (CI)** É o consumo total de insumos de cada setor. Em outras palavras, equivale à soma dos valores de uma determinada coluna.
 
 - **Valor Adicionado da Produção (VAB):** É o valor que cada setor da economia acresce ao valor final de tudo que foi produzido em uma região. Uma das formas de calcular o Produto Interno Bruto (PIB) de uma economia é pela soma dos VABs setoriais e dos impostos. É a principal medida do tamanho total de uma economia.
 
 - **Valor Bruto da Produção (VBP):** O Valor Bruto da Produção equivale à soma da produção total (DI) com a demanda final: *VBP = DI + DF*. Também pode ser calculado pela soma do Consumo Intermediário com o Valor Adicionado da Produção de cada setor: *VBP = CI + VAB*. Com isso, temos que a soma das demandas equivale à soma das produções: *DI + DF = CI + VAB*.
 
+- **Ligações:** relações entre os diferentes setores da economia.
+
+- **Ligações para a frente:** relações de um setor A com outros setores como fornecedor.
+
+- **Ligações para trás:** relações de um setor C com outros setores como demandante.
+
 ## Referências
 
 - MODELO INPUT-OUTPUT. Disponível em <<https://pt.wikipedia.org/wiki/Modelo_input-output>>. Acesso em: 17 de junho de 2020.
+
+## Licença
+
+- GNU General Public License v3.0. Detalhes em [License.md](License.md).
