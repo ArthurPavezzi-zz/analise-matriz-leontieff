@@ -18,4 +18,4 @@ Análise intersetorial simples de uma Matriz Insumo-Produto de Leontieff [retira
 
 ## Referências
 
-- MODELO INPUT-OUTPUT. Disponível em <https://pt.wikipedia.org/wiki/Modelo_input-output>. Acesso em: 17 de junho de 2020. 
+- MODELO INPUT-OUTPUT. Disponível em <<https://pt.wikipedia.org/wiki/Modelo_input-output>>. Acesso em: 17 de junho de 2020.
