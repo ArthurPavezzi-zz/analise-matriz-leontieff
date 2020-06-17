@@ -28,4 +28,4 @@ Análise intersetorial simples de uma Matriz Insumo-Produto de Leontieff [retira
 
 ## Licença
 
-- GNU General Public License v3.0. Detalhes em [License.md](License.md).
+- GNU General Public License v3.0. Detalhes [aqui](https://github.com/ArthurPavezzi/analise-matriz-leontieff/blob/master/LICENSE).
