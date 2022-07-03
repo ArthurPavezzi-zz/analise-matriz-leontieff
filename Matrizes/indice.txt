@@ -1,0 +1,56 @@
+Sumário das tabelas_2015_nível 12
+ 
+Tabela 01 - Recursos de bens e serviços - 2015
+Tabela 02 - Usos de bens e serviços - 2015
+Tabela 03 - Oferta e demanda da produção nacional a preço básico - 2015
+Tabela 04 - Oferta e demanda de produtos importados a preço básico - 2015
+Tabela 05 - Destino dos impostos sobre produtos nacionais - 2015
+Tabela 06 - Destino dos impostos sobre produtos importados - 2015
+Tabela 07 - Destino da margem de comércio sobre produtos nacionais - 2015
+Tabela 08 - Destino da margem de comércio sobre produtos importados - 2015
+Tabela 09 - Destino da margem de transporte sobre produtos nacionais - 2015
+Tabela 10 - Destino da margem de transporte sobre produtos importados - 2015
+Tabela 11 - Matriz dos coeficientes técnicos dos insumos nacionais - Matriz Bn - 2015
+Tabela 12 - Matriz dos coeficientes técnicos dos insumos importados - Matriz Bm - 2015
+Tabela 13 - Matriz de participação setorial na produção dos produtos nacionais - Matriz D - Market Share - 2015
+Tabela 14 - Matriz dos coeficientes técnicos intersetoriais - Matriz D.Bn - 2015
+Tabela 15 - Matriz de impacto intersetorial - Matriz de Leontief - 2015
+
+
+Sumário das tabelas_2015_nível 20
+ 
+Tabela 01 - Recursos de bens e serviços - 2015
+Tabela 02 - Usos de bens e serviços - 2015
+Tabela 03 - Oferta e demanda da produção nacional a preço básico - 2015
+Tabela 04 - Oferta e demanda de produtos importados a preço básico - 2015
+Tabela 05 - Destino dos impostos sobre produtos nacionais - 2015
+Tabela 06 - Destino dos impostos sobre produtos importados - 2015
+Tabela 07 - Destino da margem de comércio sobre produtos nacionais - 2015
+Tabela 08 - Destino da margem de comércio sobre produtos importados - 2015
+Tabela 09 - Destino da margem de transporte sobre produtos nacionais - 2015
+Tabela 10 - Destino da margem de transporte sobre produtos importados - 2015
+Tabela 11 - Matriz dos coeficientes técnicos dos insumos nacionais - Matriz Bn - 2015
+Tabela 12 - Matriz dos coeficientes técnicos dos insumos importados - Matriz Bm - 2015
+Tabela 13 - Matriz de participação setorial na produção dos produtos nacionais - Matriz D - Market Share - 2015
+Tabela 14 - Matriz dos coeficientes técnicos intersetoriais - Matriz D.Bn - 2015
+Tabela 15 - Matriz de impacto intersetorial - Matriz de Leontief - 2015
+
+
+Sumário das tabelas_2015_nível 67 
+
+Tabela 01 - Recursos de bens e serviços - 2015
+Tabela 02 - Usos de bens e serviços - 2015
+Tabela 03 - Oferta e demanda da produção nacional a preço básico - 2015
+Tabela 04 - Oferta e demanda de produtos importados a preço básico - 2015
+Tabela 05 - Destino dos impostos sobre produtos nacionais - 2015
+Tabela 06 - Destino dos impostos sobre produtos importados - 2015
+Tabela 07 - Destino da margem de comércio sobre produtos nacionais - 2015
+Tabela 08 - Destino da margem de comércio sobre produtos importados - 2015
+Tabela 09 - Destino da margem de transporte sobre produtos nacionais - 2015
+Tabela 10 - Destino da margem de transporte sobre produtos importados - 2015
+Tabela 11 - Matriz dos coeficientes técnicos dos insumos nacionais - Matriz Bn - 2015
+Tabela 12 - Matriz dos coeficientes técnicos dos insumos importados - Matriz Bm - 2015
+Tabela 13 - Matriz de participação setorial na produção dos produtos nacionais - Matriz D - Market Share - 2015
+Tabela 14 - Matriz dos coeficientes técnicos intersetoriais - Matriz D.Bn - 2015
+Tabela 15 - Matriz de impacto intersetorial - Matriz de Leontief - 2015
+
